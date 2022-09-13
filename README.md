@@ -1,4 +1,6 @@
 # OTHER
+## Project of interaction with TTN lorawan application server using PUB/SUB mechanism:
+
 To "import context" in ttn there is an error, to solve the belo errors in pythone code:
 
 - Module context not found
