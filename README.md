@@ -1,5 +1,5 @@
 # OTHER
-## Project of interaction with TTN lorawan application server using PUB/SUB mechanism:
+## Project of interaction with TTN lorawan application server using PUB/SUB mechanism (MQTT PAHO):
 
 To "import context" in ttn there is an error, to solve the belo errors in pythone code:
 
