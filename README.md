@@ -1,5 +1,5 @@
 # OTHER
-In "import context" in ttn there is an error, to solve the belo errors in pythone code:
+To "import context" in ttn there is an error, to solve the belo errors in pythone code:
 
 - Module context not found
 
